@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 ###  BI の 利器
 -
 
