@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # The Minimal theme
+=======
+## Welcome to DeepF
+>>>>>>> 808d4650d485ccb715e75c42a485812635477ac2
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
@@ -22,6 +26,7 @@ To use the Minimal theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
+<<<<<<< HEAD
 
 
 ## Customizing
@@ -33,6 +38,10 @@ Minimal will respect the following variables, if set in your site's `_config.yml
 ```yml
 title: [The title of your site]
 description: [A short description of your site's purpose]
+=======
+[Link](url) and ![Image](src)
+
+>>>>>>> 808d4650d485ccb715e75c42a485812635477ac2
 ```
 
 Additionally, you may choose to set the following optional variables:
