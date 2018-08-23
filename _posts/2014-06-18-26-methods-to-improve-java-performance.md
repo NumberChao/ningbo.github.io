@@ -1,10 +1,6 @@
 ---
 layout: post
-title: Java编程Tips
-description: Java编程中“为了性能”尽量要做到的一些地方
-keywords: java
-categories : [java]
-tags : [java, 性能]
+title: Blogging Like a Hacker
 ---
 
 原文： [Java编程中“为了性能”尽量要做到的一些地方](http://www.iteye.com/magazines/66)
